@@ -2,8 +2,5 @@
   "name": "portfio",
   "version": "1.0.0",
   "private": true,
-  "description": "Muna Ali Muuse – Portfolio",
-  "scripts": {
-    "build": "cd frontend && npm install && npm run build"
-  }
+  "description": "Muna Ali Muuse – Portfolio"
 }
