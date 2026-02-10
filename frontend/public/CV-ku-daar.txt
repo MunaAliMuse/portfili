@@ -1,0 +1,8 @@
+CV Download – Muna Ali
+
+1. Copy your CV PDF (e.g. "muna ali.pdf") into this folder.
+2. Rename it to:  cv.pdf
+3. Delete this file (CV-ku-daar.txt) if you want.
+
+Then "Download CV" on the portfolio will work.
+Path you mentioned: .../transfers/2026-06/muna ali.pdf
